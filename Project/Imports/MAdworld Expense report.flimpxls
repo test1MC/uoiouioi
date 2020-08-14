@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2020-08-14T12:38:08.6503468-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/MAdworld Expense report.xlsx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/MAdworld Expense report.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Stylesheets/MAdworld Expense report.css"
+      TimeStamp="8/14/2020 12:38:04 PM" />
+    <Url
+      Source="../../Content/MAdworld Expense report/Expenses.htm"
+      TimeStamp="8/14/2020 12:38:04 PM" />
+    <Url
+      Source="../../Content/MAdworld Expense report/International Example.htm"
+      TimeStamp="8/14/2020 12:38:04 PM" />
+    <Url
+      Source="../../Content/MAdworld Expense report/Domestic Example.htm"
+      TimeStamp="8/14/2020 12:38:04 PM" />
+    <Url
+      Source="../TOCs/MAdworld Expense report.fltoc"
+      TimeStamp="8/14/2020 12:38:04 PM" />
+  </GeneratedFiles>
+</MsExcelImport>

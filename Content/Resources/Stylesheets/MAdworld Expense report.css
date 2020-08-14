@@ -1,0 +1,1518 @@
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\MAdworld Expense report.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: bottom;
+	font-family: "Arial", "";
+}
+
+.s16
+{
+	
+}
+
+.s17
+{
+	font-family: "Arial", "";
+	font-size: 7.5px;
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.s18
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 18px;
+	color: #008000;
+	font-weight: bold;
+}
+
+.s19
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s20
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s21
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s22
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s23
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 13.5px;
+	font-weight: bold;
+}
+
+.s24
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s25
+{
+	vertical-align: middle;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 13.5px;
+	font-weight: bold;
+}
+
+.s26
+{
+	text-align: right;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s27
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 24px;
+}
+
+.s28
+{
+	text-align: right;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s29
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+.s30
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s31
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s32
+{
+	text-align: right;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s33
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 24px;
+}
+
+.s34
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 24px;
+}
+
+.s35
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s36
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s37
+{
+	font-family: "Arial", "";
+	font-size: 7.5px;
+	color: #0000FF;
+	text-decoration: underline;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "Arial Narrow", "Swiss";
+	font-size: 14px;
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.s38
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s39
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s40
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	font-weight: bold;
+}
+
+.s41
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	font-weight: bold;
+}
+
+.s42
+{
+	text-align: center;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s43
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s44
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s45
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s46
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s47
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s48
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s49
+{
+	text-align: right;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s50
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s51
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s52
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s53
+{
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s54
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s55
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s56
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s57
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s58
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s59
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s60
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s61
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s62
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.s63
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s64
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s65
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s66
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s67
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s68
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s69
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s70
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s71
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s72
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s73
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s74
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	font-weight: bold;
+}
+
+.s75
+{
+	text-align: left;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s76
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s77
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s78
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s79
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s80
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "";
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #C0C0C0;
+}
+
+.s81
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s82
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s83
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s84
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s85
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s86
+{
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s87
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s88
+{
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s89
+{
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s90
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s91
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s92
+{
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s93
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s94
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s95
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s96
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s97
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s98
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s99
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-weight: bold;
+}
+
+.s100
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s101
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s102
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s103
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s104
+{
+	text-align: right;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s105
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s106
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s107
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s108
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s109
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s110
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s111
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s112
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s113
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s114
+{
+	text-align: right;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	background-color: #C0C0C0;
+}
+
+.s115
+{
+	text-align: left;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s116
+{
+	text-align: right;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+}
+
+.s117
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "Monotype Corsiva", "Script";
+	font-size: 16px;
+}
+
+.s118
+{
+	text-align: right;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s119
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s120
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "Monotype Corsiva", "Script";
+	font-size: 16px;
+}
+
+.s121
+{
+	text-align: left;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+.s122
+{
+	text-align: left;
+	vertical-align: bottom;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s123
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s124
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s125
+{
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s126
+{
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s127
+{
+	border-left-style: solid;
+	border-left-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s128
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s129
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s130
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 18px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.s131
+{
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #FF0000;
+}
+
+.s132
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s133
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s134
+{
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s135
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+	color: #000080;
+	font-weight: bold;
+	background-color: #FFFF99;
+}
+
+.s137
+{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
+.s138
+{
+	text-align: center;
+	vertical-align: bottom;
+	border-top-style: solid;
+	border-top-width: 2px;
+	font-family: "MS Sans Serif", "Swiss";
+	font-size: 12px;
+}
+
