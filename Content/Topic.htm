@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Topic Title</h1>
+        <h2>Sorting examples</h2>
+        <h3>Simple inline list</h3>
+        <ul>
+            <li>Hello</li>
+            <li>World</li>
+        </ul>
+        <p>&#160;</p>
+        <h3>Simple inline list with space between list items <span style="font-size: 10pt; font-style: italic;">(BUG 163071- affects all list types)</span></h3>
+        <ul>
+            <li>hello</li> <li>world</li></ul>
+        <p>&#160;</p>
+        <h3>Simple Unordered inline list, no space between list items</h3>
+        <ul>
+            <li>Hello</li>
+            <li>World</li>
+        </ul>
+        <p>&#160;</p>
+        <h3>Simple Unordered inline list with space between list items</h3>
+        <ul>
+            <li>Hello</li>
+            <li>World</li>
+        </ul>
+        <h2>Ordered list</h2>
+        <ol>
+            <li>Hello</li>
+            <li>World</li>
+        </ol>
+        <p>&#160;</p>
+        <h3>Inline simple ordered list with a space between list items</h3>
+        <ol>
+            <li>hello</li> <li>world</li></ol>
+        <p>&#160;</p>
+        <h3>Sub list</h3>
+        <p>Sub list order should be maintained when sorting primary list. Sub list can be sorted and should not affect main list</p>
+        <ol>
+            <li>Chevy<ol style="list-style-type: upper-roman;"><li><p>Colarado</p></li><li><p>Sliverrado</p></li></ol></li>
+            <li>
+                <p>Ford truck</p>
+                <ol style="list-style-type: upper-roman;">
+                    <li>
+                        <p>F150</p>
+                    </li>
+                    <li>
+                        <p>F250</p>
+                    </li>
+                    <li>
+                        <p>F350</p>
+                    </li>
+                </ol>
+            </li>
+            <li>Toyota<ol style="list-style-type: upper-roman;"><li><p>Tundra</p></li></ol></li>
+        </ol>
+    </body>
+</html>

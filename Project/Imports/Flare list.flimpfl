@@ -24,37 +24,37 @@
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../../My Projects/Flare list/Content/Definition list.htm"
+      Source="../../../../My Projects/Flare list/Content/Definition list.htm"
       AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/Flare list/Content/Definition list.htm" />
     <Url
-      Source="../../My Projects/Flare list/Content/Merging list.htm"
+      Source="../../../../My Projects/Flare list/Content/Merging list.htm"
       AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/Flare list/Content/Merging list.htm" />
     <Url
-      Source="../../My Projects/Flare list/Content/Merging list1.htm"
+      Source="../../../../My Projects/Flare list/Content/Merging list1.htm"
       AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/Flare list/Content/Merging list1.htm" />
     <Url
-      Source="../../My Projects/Flare list/Content/Merging list2.htm"
+      Source="../../../../My Projects/Flare list/Content/Merging list2.htm"
       AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/Flare list/Content/Merging list2.htm" />
     <Url
-      Source="../../My Projects/Flare list/Content/Topic.htm"
+      Source="../../../../My Projects/Flare list/Content/Topic.htm"
       AbsoluteSource="file:///C:/Users/dspencer/Documents/My Projects/Flare list/Content/Topic.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="Content/Definition list.htm"
+      Source="../../Content/Definition list.htm"
       TimeStamp="8/7/2020 9:23:44 AM" />
     <Url
-      Source="Content/Merging list.htm"
+      Source="../../Content/Merging list.htm"
       TimeStamp="8/10/2020 12:28:03 PM" />
     <Url
-      Source="Content/Merging list1.htm"
+      Source="../../Content/Merging list1.htm"
       TimeStamp="8/11/2020 6:30:58 AM" />
     <Url
-      Source="Content/Merging list2.htm"
+      Source="../../Content/Merging list2.htm"
       TimeStamp="8/11/2020 7:58:15 AM" />
     <Url
-      Source="Content/Topic.htm"
+      Source="../../Content/Topic.htm"
       TimeStamp="8/7/2020 10:50:48 AM" />
   </GeneratedFiles>
 </CatapultProject>
