@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport ImportFolder="" LastImport="2020-08-17T06:08:56.8797762-07:00" KeepSourceLinks="true" AutoSync="true">
+    <Files>
+        <Url Source="../../../../../Desktop/test.docx" AbsoluteSource="file:///C:/Users/dspencer/Desktop/test.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Excitement with additional.htm" TimeStamp="8/17/2020 6:08:53 AM" />
+        <Url Source="../../Content/Heading one.htm" TimeStamp="8/17/2020 6:08:53 AM" />
+        <Url Source="../TOCs/test.fltoc" TimeStamp="8/17/2020 6:08:53 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/test.css" TimeStamp="8/17/2020 6:08:53 AM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading1" Style="Word" />
+        <Map From="Intense Quote" To="p.IntenseQuote" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>
