@@ -379,3 +379,144 @@ p.footer-sub
 		margin: 3% 0;
 	}
 }
+
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\test.docx" />*/
+
+p.p_1
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol.ol_1
+{
+	letter-spacing: .25;
+	line-height: 20pt;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul.ul_1
+{
+	letter-spacing: .25;
+	line-height: 20pt;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li.li_1
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+span.span_1
+{
+	font-weight: bold;
+}
+
+p.p_2
+{
+	font-weight: bold;
+}
+
+span.span_2
+{
+	font-weight: bold;
+	color: #FF0000;
+}
+
+p.p_3
+{
+	font-weight: bold;
+	color: #FF0000;
+}
+
+p.p_4
+{
+	text-align: center;
+	font-weight: bold;
+	color: #5B9BD5;
+}
+
+p.p_5
+{
+	font-weight: bold;
+	color: #5B9BD5;
+	text-decoration: underline;
+}
+
+sub.sub_1
+{
+	font-weight: bold;
+	color: #5B9BD5;
+}
+
+p.p_6
+{
+	font-weight: bold;
+	color: #5B9BD5;
+}
+
+p.p_7
+{
+	font-weight: bold;
+	color: #262626;
+	font-size: 16pt;
+}
+
+span.span_3
+{
+	font-weight: bold;
+	color: #262626;
+	font-size: 16pt;
+}
+
+h1.Heading1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	mc-heading-level: 1;
+	font-family: 'Calibri Light';
+	color: #2E74B5;
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+p.IntenseQuote
+{
+	font-size: 11pt;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: #5B9BD5;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: #5B9BD5;
+	margin-top: 18pt;
+	margin-bottom: 18pt;
+	margin-left: 43pt;
+	margin-right: 43pt;
+	text-align: center;
+	font-family: Calibri;
+	font-style: italic;
+	color: #5B9BD5;
+}
+

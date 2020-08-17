@@ -16,7 +16,8 @@
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
-  ShowMadCapBacklink="true">
+  ShowMadCapBacklink="true"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
@@ -24,6 +25,12 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Publish="true" />
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true"
+      IsResource="false" />
   </Destinations>
 </CatapultTarget>
